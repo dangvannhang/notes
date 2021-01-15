@@ -2,10 +2,10 @@
 Here is place that I will show the way how to install packages, libraries, framework
 
 ## Install laravel
-- Required:
+##### Required:
 + Install nodejs
 + Install composer
-- Way to install
+##### Way to install
 + composer create-project laravel/laravel my-laravel
 - Run app
 + php artisan serve
