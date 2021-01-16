@@ -11,9 +11,11 @@ Here is place that I will show the way how to install packages, libraries, frame
 + php artisan serve
 
 ## Install vuejs
-#### Way to install
+#### Way to install 
 + npm install -g @vue/cli
 + vue create my-vue
+#### Way to install with template "webpack"
++ vue init webpack my-vue
 #### Run app
 + npm run serve
 + npm run dev
