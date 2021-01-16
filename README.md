@@ -15,6 +15,7 @@ Here is place that I will show the way how to install packages, libraries, frame
 + npm install -g @vue/cli
 + vue create my-vue
 #### Way to install with template "webpack"
++ npm install --global vue-cli
 + vue init webpack my-vue
 #### Run app
 + npm run serve
