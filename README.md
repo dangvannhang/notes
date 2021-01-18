@@ -1,7 +1,7 @@
 # Install-everything
 Here is place that I will show the way how to install packages, libraries, framework
 
-## 1 Install laravel
+## 1.Install laravel
 #### 1.1 Required:
 + Install nodejs
 + Install composer
@@ -30,4 +30,7 @@ Here is place that I will show the way how to install packages, libraries, frame
 #### 3.3 Run app:
 + php artisan serve
 + npm install && npm run dev
+## 4.Docker
+#### 4.3 run app
++ docker-compose up --build
 
