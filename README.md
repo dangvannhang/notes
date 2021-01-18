@@ -36,4 +36,7 @@ Here is place that I will show the way how to install packages, libraries, frame
 + docker ps
 + docker exec -it <tencontainer> /bin/bash de log vo container
 + docker-compose down khi khong can dung, de tat cac service
+## 5. Install scss in vuejs
+#### 5.2. Way to install
++ npm install -D sass-loader node-sass
 
