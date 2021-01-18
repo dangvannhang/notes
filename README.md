@@ -32,5 +32,8 @@ Here is place that I will show the way how to install packages, libraries, frame
 + npm install && npm run dev
 ## 4.Docker
 #### 4.3 run app
-+ docker-compose up --build
++ docker-compose up -d --build
++ docker ps
++ docker exec -it <tencontainer> /bin/bash de log vo container
++ docker-compose down khi khong can dung, de tat cac service
 
