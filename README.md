@@ -1,33 +1,33 @@
 # Install-everything
 Here is place that I will show the way how to install packages, libraries, framework
 
-## Install laravel
-#### Required:
+## 1 Install laravel
+#### 1.1 Required:
 + Install nodejs
 + Install composer
-#### Way to install
+#### 1.2 Way to install
 + composer create-project laravel/laravel my-laravel
-#### Run app
+#### 1.3 Run app
 + php artisan serve
 
-## Install vuejs
-#### Way to install 
+## 2.Install vuejs
+#### 2.2.1 Way to install 
 + npm install -g @vue/cli
 + vue create my-vue
-#### Way to install with template "webpack"
+#### 2.2.2 Way to install with template "webpack"
 + npm install --global vue-cli
 + vue init webpack my-vue
-#### Run app
+#### 2.3 Run app
 + npm run serve
 + npm run dev
 
-## Install vuejs in laravel
-#### Required:
+## 3 Install vuejs in laravel
+#### 3.1 Required:
 + install laravel first
-#### Way to install
+#### 3.2 Way to install
 + composer require laravel/ui
 + php artisan ui vue
-#### Run app:
+#### 3.3 Run app:
 + php artisan serve
 + npm install && npm run dev
 
