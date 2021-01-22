@@ -34,6 +34,9 @@ Here is place that I will show the way how to install packages, libraries, frame
 #### 4.1 Required:
 + Your computer must be  windows 10 professional and Enterprise edition
 + Or you can follow https://www.itechtics.com/enable-hyper-v-windows-10-home/ to see the way to open Hyper-v for windows 10 home
+#### 4.2 Way to install
++ When you setup docker, it will give you instruction to setup, if you get errors, you can search it on google
++ Your docker desktop must be running
 #### 4.3 run app
 + docker-compose up -d --build
 + docker ps
