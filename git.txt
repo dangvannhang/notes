@@ -1,0 +1,1 @@
+## Đây là nơi ghi chú lại tất cả các kiến thức cũng như câu lệnh về git mà mình đã học được
