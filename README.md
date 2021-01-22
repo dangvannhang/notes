@@ -31,6 +31,9 @@ Here is place that I will show the way how to install packages, libraries, frame
 + php artisan serve
 + npm install && npm run dev
 ## 4.Docker
+#### 4.1 Required:
++ Your computer must be  windows 10 professional and Enterprise edition
++ Or you can follow https://www.itechtics.com/enable-hyper-v-windows-10-home/ to see the way to open Hyper-v for windows 10 home
 #### 4.3 run app
 + docker-compose up -d --build
 + docker ps
