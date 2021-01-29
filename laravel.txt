@@ -1,3 +1,6 @@
+# Định nghĩa
+- Laravel: php framework
+- composer: php package manager
 # Model trong Laravel
 ## Model example
 ### User Model
