@@ -46,4 +46,5 @@ Here is place that I will show the way how to install packages, libraries, frame
 ## 5. Install scss in vuejs
 #### 5.2. Way to install
 + npm install -D sass-loader node-sass
++ npm install sass-loader sass webpack --save-dev
 
