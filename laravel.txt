@@ -1,6 +1,11 @@
 # Định nghĩa
 - Laravel: php framework
 - composer: php package manager
+# Yêu cầu cài đặt
+- Php 7.3 trở lên
+- cài đặt xampp hay docker
+- có nodejs
+- có composer
 # Model trong Laravel
 ## Model example
 ### User Model
