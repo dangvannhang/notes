@@ -30,6 +30,7 @@ Here is place that I will show the way how to install packages, libraries, frame
 #### 3.3 Run app:
 + php artisan serve
 + npm install && npm run dev
+
 ## 4.Docker
 #### 4.1 Required:
 + Your computer must be  windows 10 professional and Enterprise edition
@@ -43,8 +44,27 @@ Here is place that I will show the way how to install packages, libraries, frame
 + docker exec -it <tencontainer> /bin/bash de log vo container
 + docker-compose down khi khong can dung, de tat cac service
 + 127.0.0.1:{port}
+  
 ## 5. Install scss in vuejs
 #### 5.2. Way to install
 + npm install -D sass-loader node-sass
 + npm install sass-loader sass webpack --save-dev
+
+## 6. Install Less 
+#### 6.1 Required
++ Installed Nodejs
+#### 6.2 Way to install
++ npm install -g less
+#### 6.3 Run Less
++ lessc style.less style.css
+
+## 7. Install sass
+#### 7.1 Required
++ Install Nodejs
+#### 7.2 Way to install
++ npm install -g sass
+#### 7.3 Run sass
++ sass style.sass style.css
+
+
 
