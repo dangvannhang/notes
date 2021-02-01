@@ -33,6 +33,7 @@
         {
             return $this->hasMany(Order::class);
         }
+        
     }
     
 
@@ -85,3 +86,14 @@
 
     }   
 =>   The Order model looks slightly different from the other two but is essentially the same thing. We just established a different kind of relationship – belongsTo that shows which user made an order or which product was ordered. 
+
+# Migration
+## Bản chất
+- Giống như một cơ sở dữ liệu nhưng mà linh động hơn, được dùng để tạo ra các bảng trong database.
+## Sử dụng
+- php artisan make:migration create_users_table
+-> Tạo ra một migration tên là create_users_table
+- php artisan migrate
+-> Câu lệnh sẽ chạy hết tất cả các migration mà ta đã tạo và migration mặc định có trong folder migration.
+-php artisan migrate:rollback
+-> Nếu ta muốn quay lại ban đầu trước khi chạy các migration, không có các bảng.
