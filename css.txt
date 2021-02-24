@@ -1,0 +1,5 @@
+1. Cách để center một box ở vertical and horizal
+  height:100%;
+  display:flexbox;
+  align-items:center;
+  justify-content:center;
