@@ -1,1 +1,4 @@
 ## Đây là nơi ghi chú lại tất cả các kiến thức cũng như câu lệnh về git mà mình đã học được
+
+1. Nếu như đang ở một nhánh nào đó mà muốn pull hết code ở nhánh main về nhánh mình thì
+- git pull origin main
