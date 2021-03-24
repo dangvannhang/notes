@@ -5,3 +5,5 @@
 ## Các trường hợp hay gặp ở git
 1. Nếu như đang ở một nhánh nào đó mà muốn pull hết code ở nhánh main về nhánh mình thì
 - git pull origin main
+2. Nếu như muốn viết nội dung cho một file nào đó mà không cần mở nó ra thì chỉ cần
+- echo "content" > file_name.datafile
