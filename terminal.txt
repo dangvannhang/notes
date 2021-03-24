@@ -1,0 +1,5 @@
+1. Tạo một folder
+- mkdir folder_name
+
+2. Cách mở một folder trong visual studio code
+- code .\folder_name
