@@ -1,4 +1,7 @@
 ## Đây là nơi ghi chú lại tất cả các kiến thức cũng như câu lệnh về git mà mình đã học được
-
+## Các tài liệu hay về git
+1. https://xuanthulab.net/lam-viec-voi-nhanh-branch-tao-nhanh-gop-nhanh-trong-git.html
+2. https://xuanthulab.net/lenh-git-merge-va-rebase-gop-va-viet-lai-lich-su-commit.html
+## Các trường hợp hay gặp ở git
 1. Nếu như đang ở một nhánh nào đó mà muốn pull hết code ở nhánh main về nhánh mình thì
 - git pull origin main
