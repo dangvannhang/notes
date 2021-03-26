@@ -3,3 +3,5 @@
 
 2. Cách mở một folder trong visual studio code
 - code .\folder_name
+3. Cách để đi vào một folder
+- cd folder_name
