@@ -1,35 +1,35 @@
 * Note
 - Những câu lệnh trên không phân biệt chữ hoa và chữ thường.
 
-1. Tạo một folder
+* Tạo một folder
 - mkdir folder_name
 
-2. Cách mở một folder trong visual studio code
+* Cách mở một folder trong visual studio code
 - code .\folder_name
 
-3. Cách để đi vào một folder và đi ngược lại:
+* Cách để đi vào một folder và đi ngược lại:
 - cd folder_name
 - cd ..
 
-4. Dùng để xem ở vị trí hiện tại chúng ta đang đứng có những gì
+* Dùng để xem ở vị trí hiện tại chúng ta đang đứng có những gì
 - ls
 
-6. Cách để clear giao diện 
+* Cách để clear giao diện 
 - clear
 
-7. Cách tạo một file 
+* Cách tạo một file 
 - touch file_name.txt
 
-8. Cách để copy một file và move nó tới vị trí mong muốn:
+* Cách để copy một file và move nó tới vị trí mong muốn:
 - cp file_copy directory.
 
-9. Cách để copy một file và đổi tên file đó:
+* Cách để copy một file và đổi tên file đó:
 - cp file_copy new_name_file
 
-10. Cách để move 1 file từ nơi này sang nơi khác:
+* Cách để move 1 file từ nơi này sang nơi khác:
 - mv file_name directory
 
-11. Cách để remove 1 file, folder:
+* Cách để remove 1 file, folder:
 - rm file_name.txt => remove 1 file
 + Nếu muốn remove nhiều file thì chỉ cần ghi cách nhau ra là được.
 - rm -rm folder_name => remove 1 folder
