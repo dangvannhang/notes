@@ -27,5 +27,7 @@
   + Khi mà flex-direction: column; -> thì align-items sẽ căn chỉnh cho chiều ngang -> thì nó sẽ full hết chiều ngang của box.
 - flex-basic ; Cái đây giống như là chỉnh sửa width hay height của item( phụ thuộc vào vào flex-direction; = width khi flex-direction là row và ngược lại) => nó sẽ đè lên cả thuộc tính width hay height mặc định của item.
 - flex-grow: number; -> cái này giống y hệt như grid-template-column; -> nếu muốn item nào chiếm nhiều diện tích hơn các item khác thì cứ cho nó số lớn hơn.
+  + Mặc định flex-grow: 0; thì nó sẽ không cho các phần tử con bên trong nó full box theo chiều của flex-direction.
+  + flex-grow: 
   + Nó cũng phụ thuộc vào cái flex-direction; -> nó sẽ căn chiều ngang nếu flex-direction là row; -> sẽ căn cho chiều dọc khi là flex-direction: column;
 - flex-shrink: cái này thì ngược lại với flex-grow nha. 
