@@ -1,4 +1,5 @@
 * Cách để center một box ở vertical and horizal
+
 - Cách 1: dùng flex;
   .container {
     height: 100vh;
@@ -15,12 +16,16 @@
   }
 
 * Những điều lưu ý về flexbox css
+
 - flex-direction: row-reverse; -> nó sẽ đổi vị trí hiển thị từ phải qua trái theo các phần tử đã được sắp xếp.
 - justify-content: flex-end; -> nó sẽ move hết tất cả các phần tử từ trái qua phải nhưng vẫn hiển thị theo đúng cấu trúc của code.
 - Khi mà flex-direction: row; 
-+ justify-content: center; -> nó sẽ căn chỉnh vị trí của các items theo chiều của flex; -> hiện tại nó đang căn chỉnh cho chiều ngang.
-+ align-items: center; -> Nó cũng căn chỉnh vị trí của các items nhưng mà theo chiều ngược lại của flex; -> hiện tại nó sẽ căn chỉnh cho chiều dọc.
+  + justify-content: center; -> nó sẽ căn chỉnh vị trí của các items theo chiều của flex; -> hiện tại nó đang căn chỉnh cho chiều ngang.
+  + align-items: center; -> Nó cũng căn chỉnh vị trí của các items nhưng mà theo chiều ngược lại của flex; -> hiện tại nó sẽ căn chỉnh cho chiều dọc.
 - Mặc định align-items: stretch; -> có nghĩa là nó sẽ full luôn cả chiều dài hoặc là chiều cao của box đó luôn.
-+ Khi mà flex-direction: row; -> thì align-items sẽ chăn chỉnh cho chiều dọc -> thì nó sẽ full hết chiều dọc của box.
-+ Khi mà flex-direction: column; -> thì align-items sẽ căn chỉnh cho chiều ngang -> thì nó sẽ full hết chiều ngang của box.
+  + Khi mà flex-direction: row; -> thì align-items sẽ chăn chỉnh cho chiều dọc -> thì nó sẽ full hết chiều dọc của box.
+  + Khi mà flex-direction: column; -> thì align-items sẽ căn chỉnh cho chiều ngang -> thì nó sẽ full hết chiều ngang của box.
+- flex-basic ; Cái đây giống như là chỉnh sửa width hay height của item( phụ thuộc vào vào flex-direction; = width khi flex-direction là row và ngược lại) => nó sẽ đè lên cả thuộc tính width hay height mặc định của item.
 - flex-grow: number; -> cái này giống y hệt như grid-template-column; -> nếu muốn item nào chiếm nhiều diện tích hơn các item khác thì cứ cho nó số lớn hơn.
+  + Nó cũng phụ thuộc vào cái flex-direction; -> nó sẽ căn chiều ngang nếu flex-direction là row; -> sẽ căn cho chiều dọc khi là flex-direction: column;
+- flex-shrink: cái này thì ngược lại với flex-grow nha. 
