@@ -33,4 +33,5 @@
 
 11. Cách để remove 1 file, folder:
 - rm file_name.txt => remove 1 file
++ Nếu muốn remove nhiều file thì chỉ cần ghi cách nhau ra là được.
 - rm -rm folder_name => remove 1 folder
