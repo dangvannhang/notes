@@ -15,3 +15,10 @@
 
 5. Cách để đi ngược lại folder trước
 - cd ..
+
+6. Cách để clear giao diện 
+- clear
+
+7. Cách tạo một file 
+- touch file_name.txt
+
