@@ -30,3 +30,6 @@
 
 10. Cách để move 1 file từ nơi này sang nơi khác:
 - mv file_name directory
+
+11. Cách để remove 1 file:
+- rm file_name.txt
