@@ -20,3 +20,6 @@
 - Khi mà flex-direction: row; 
 + justify-content: center; -> nó sẽ căn chỉnh vị trí của các items theo chiều của flex; -> hiện tại nó đang căn chỉnh cho chiều ngang.
 + align-items: center; -> Nó cũng căn chỉnh vị trí của các items nhưng mà theo chiều ngược lại của flex; -> hiện tại nó sẽ căn chỉnh cho chiều dọc.
+- Mặc định align-items: stretch; -> có nghĩa là nó sẽ full luôn cả chiều dài hoặc là chiều cao của box đó luôn.
++ Khi mà flex-direction: row; -> thì align-items sẽ chăn chỉnh cho chiều dọc -> thì nó sẽ full hết chiều dọc của box.
++ Khi mà flex-direction: column; -> thì align-items sẽ căn chỉnh cho chiều ngang -> thì nó sẽ full hết chiều ngang của box.
