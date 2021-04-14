@@ -1,13 +1,22 @@
-1. Cách để center một box ở vertical and horizal
-.container {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.container {
-  position:absolute; 
-  top: 50%; left:50%; 
-  transform: translate(-50%, -50%);
-}
+* Cách để center một box ở vertical and horizal
+- Cách 1: dùng flex;
+  .container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column; // flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   }
+- Cách 2: dùng absolute;   
+  .container {
+    position:absolute; 
+    top: 50%; left:50%; 
+    transform: translate(-50%, -50%);
+  }
+
+* Những điều lưu ý về flexbox css
+- flex-direction: row-reverse; -> nó sẽ đổi vị trí hiển thị từ phải qua trái theo các phần tử đã được sắp xếp.
+- justify-content: flex-end; -> nó sẽ move hết tất cả các phần tử từ trái qua phải nhưng vẫn hiển thị theo đúng cấu trúc của code.
+- Khi mà flex-direction: row; 
++ justify-content: center; -> nó sẽ căn chỉnh vị trí của các items theo chiều của flex; -> hiện tại nó đang căn chỉnh cho chiều ngang.
++ align-items: center; -> Nó cũng căn chỉnh vị trí của các items nhưng mà theo chiều ngược lại của flex; -> hiện tại nó sẽ căn chỉnh cho chiều dọc.
