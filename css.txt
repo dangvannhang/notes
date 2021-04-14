@@ -23,3 +23,4 @@
 - Mặc định align-items: stretch; -> có nghĩa là nó sẽ full luôn cả chiều dài hoặc là chiều cao của box đó luôn.
 + Khi mà flex-direction: row; -> thì align-items sẽ chăn chỉnh cho chiều dọc -> thì nó sẽ full hết chiều dọc của box.
 + Khi mà flex-direction: column; -> thì align-items sẽ căn chỉnh cho chiều ngang -> thì nó sẽ full hết chiều ngang của box.
+- flex-grow: number; -> cái này giống y hệt như grid-template-column; -> nếu muốn item nào chiếm nhiều diện tích hơn các item khác thì cứ cho nó số lớn hơn.
