@@ -22,3 +22,9 @@
 7. Cách tạo một file 
 - touch file_name.txt
 
+8. Cách để copy một file và move nó tới vị trí mong muốn:
+- cp file_copy directory.
+
+9. Cách để copy một file và đổi tên file đó:
+- cp file_copy new_name_file
+
