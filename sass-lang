@@ -2,5 +2,10 @@
 - npm init
 - npm install node-sass
 
-1. Kế thừa tên class
+* Kế thừa tên class
 - Ta có .nav .nav-bar .nav-bar_items -> .nav { &-bar { &_item } }
+
+* Auto compile code sass to css
+- Ở trong file package.json:
+  + "scripts": { "compile:sass":  "node-sass sass/main.scss css/style.css -w" }
+- Trong terminal: npm run compile:sass
