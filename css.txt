@@ -31,3 +31,6 @@
   + flex-grow: 
   + Nó cũng phụ thuộc vào cái flex-direction; -> nó sẽ căn chiều ngang nếu flex-direction là row; -> sẽ căn cho chiều dọc khi là flex-direction: column;
 - flex-shrink: cái này thì ngược lại với flex-grow nha. 
+
+* Cách để center một box theo horizal khi nó ở trong một box khác:
+- Cho phần tử box con có margin: 0 auto;
