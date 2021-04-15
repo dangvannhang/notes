@@ -1,0 +1,5 @@
+* Những điều cần chú ý trong html
+
+* Hướng dẫn sử dụng Emmet để code html nhanh:
+- tag.class_name: dùng để tạo ra một tag nào đó với class_name -> section.section_about -> <section class="section_about></section>
+- 
