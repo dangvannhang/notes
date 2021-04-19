@@ -34,3 +34,18 @@
 
 * Cách để center một box theo horizal khi nó ở trong một box khác:
 - Cho phần tử box con có margin: 0 auto;
+
+* Css references selectors:
+- .class1.class2 : Lấy hết tất cả các elements có cả hai class là class1 và class2
+- .class1 .class2 : Lấy class2 với điều kiện là class2 phải là con của class1
+- element>element : div > p : Lấy tất cả các thẻ p nơi mà có thẻ mẹ là div
+- element+element: div + p : lấy tất cả các thẻ p cái mà có mặt ngay sau thẻ div
+- element1~element2 : p ~ul : lấy cái ul ...
+- https://www.w3schools.com/cssref/css_selectors.asp
+
+
+
+
+
+
+- element>element : div > p : Lấy tất cả các thẻ p nơi mà có thẻ mẹ là div
