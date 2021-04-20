@@ -41,11 +41,16 @@
 - element>element : div > p : Lấy tất cả các thẻ p nơi mà có thẻ mẹ là div
 - element+element: div + p : lấy tất cả các thẻ p cái mà có mặt ngay sau thẻ div
 - element1~element2 : p ~ul : lấy cái ul ...
+- element>element : div > p : Lấy tất cả các thẻ p nơi mà có thẻ mẹ là div
+
 - https://www.w3schools.com/cssref/css_selectors.asp
 
+* Border cho cả đoạn văn trừ cái title của đoạn văn
+- Bọc cả đoặn văn trong <fieldset></fieldset>, cái title của đoặn văn là dùng <legend></legend>
 
 
 
 
 
-- element>element : div > p : Lấy tất cả các thẻ p nơi mà có thẻ mẹ là div
+
+
