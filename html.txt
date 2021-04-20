@@ -12,3 +12,6 @@
 
 * Clear hết data trên form chỉ dùng html thì <input type="reset" value=""> -> Khi mà người dùng click vào thì nó sẽ tự động clear hết tất cả các thông tin của form.
 
+* Có thể xác thực dữ liệu tại các ô input bằng cách thêm attribute là pattern và sau đó là các regex data.
+
+
