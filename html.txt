@@ -9,3 +9,6 @@
 - type = "date" -> nó sẽ nhận về ngày tháng năm.
 
 * Select rồi option mà muốn có cái cái gọi là option group ở trước các cái option thì dùng <optgroup label="Hiển thị tên group"></optgroup>
+
+* Clear hết data trên form chỉ dùng html thì <input type="reset" value=""> -> Khi mà người dùng click vào thì nó sẽ tự động clear hết tất cả các thông tin của form.
+
