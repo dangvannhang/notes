@@ -48,7 +48,7 @@
 * Border cho cả đoạn văn trừ cái title của đoạn văn
 - Bọc cả đoặn văn trong <fieldset></fieldset>, cái title của đoặn văn là dùng <legend></legend>
 
-
+* Css cho ô input khi mà người dùng submit data invalid thì chỉ cần ghi là input:invalid {}
 
 
 
