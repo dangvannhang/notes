@@ -3,3 +3,7 @@
 * Hướng dẫn sử dụng Emmet để code html nhanh:
 - tag.class_name: dùng để tạo ra một tag nào đó với class_name -> section.section_about -> <section class="section_about></section>
 - 
+
+* Sự khác nhau về kiểu dữ liệu của các attributes về thời gian trong input tag:
+- type = "time" -> nó sẽ chỉ nhận về giờ, phút và am hoặc là pm thôi.
+- type = "date" -> nó sẽ nhận về ngày tháng năm.
