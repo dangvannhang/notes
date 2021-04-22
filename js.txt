@@ -1,13 +1,26 @@
 * Notes
 - Để có thể hạn chế việc khi browser load file js dẫn đến html không thể hoàn thành việc build DOM thì ta nên thêm attribute "defer" trong thẻ <script>
-+ Nhưng thuộc tính này sẽ bị bỏ qua nếu trong <script> không có attribute là scr.
+  + Nhưng thuộc tính này sẽ bị bỏ qua nếu trong <script> không có attribute là scr.
 
 
 * 
 - Nếu muốn truy cập một thuộc tính của một object thì ta có hai cách sau: 
-+ Đầu tiên ta có thể gọi theo cách thông thường là object.property
-+ Hoặc là gán property cho một biến nào đó như là const property = "age"; sau đó gọi bằng cách object[property].
+  + Đầu tiên ta có thể gọi theo cách thông thường là object.property
+  + Hoặc là gán property cho một biến nào đó như là const property = "age"; sau đó gọi bằng cách object[property].
 
 - Cách tạo ra class trong js
-+ class Name {}
-+ const Name = class 
+  + class Name {}
+  + const Name = class 
+- Cấu trúc của một class mẫu:
+  class className{
+    constructor(
+      // Define parameters:
+      // Tại đây ta sẽ khai báo tất cả các tham số sẽ truyền vào object
+    ) {
+      // Define properties:
+      // 
+    }
+    // Add methods like normal function
+  }
+
+* Giống và khác 
