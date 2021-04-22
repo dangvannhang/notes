@@ -1,6 +1,7 @@
 * Các dấu và các kí tự
 1. Curly bracket: dấu ngoặc nhọn '{}'
-2. omma : dấu phẩy ','
+2. Comma : dấu phẩy ','
+3. Colon : dấu hai chấm ':'
 
 
 * Các từ hay gặp
