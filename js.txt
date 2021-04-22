@@ -7,3 +7,7 @@
 - Nếu muốn truy cập một thuộc tính của một object thì ta có hai cách sau: 
 + Đầu tiên ta có thể gọi theo cách thông thường là object.property
 + Hoặc là gán property cho một biến nào đó như là const property = "age"; sau đó gọi bằng cách object[property].
+
+- Cách tạo ra class trong js
++ class Name {}
++ const Name = class 
