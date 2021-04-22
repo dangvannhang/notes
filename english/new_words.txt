@@ -1,2 +1,3 @@
 * Các dấu và các kí tự
-1. curly bracket: dấu ngoặc nhọn {}
+1. Curly bracket: dấu ngoặc nhọn '{}'
+2. omma : dấu phẩy ','
