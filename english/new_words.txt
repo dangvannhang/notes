@@ -1,10 +1,11 @@
 * Các dấu và các kí tự
-1. Curly bracket: dấu ngoặc nhọn '{}'
-2. Comma : dấu phẩy ','
-3. Colon : dấu hai chấm ':'
-4. Notation : kí hiệu 
+- Curly bracket: dấu ngoặc nhọn '{}'
+- Bracket notation: dấu ngoặc tròn '()'
+- Comma : dấu phẩy ','
+- Colon : dấu hai chấm ':'
+- Notation : kí hiệu 
 
 
 * Các từ hay gặp
-1. Content : nội dung.
-2. Context : ngữ cảnh.
+- Content : nội dung.
+- Context : ngữ cảnh.
