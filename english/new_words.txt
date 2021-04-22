@@ -2,6 +2,7 @@
 1. Curly bracket: dấu ngoặc nhọn '{}'
 2. Comma : dấu phẩy ','
 3. Colon : dấu hai chấm ':'
+4. Notation : kí hiệu 
 
 
 * Các từ hay gặp
