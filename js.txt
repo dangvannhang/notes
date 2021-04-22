@@ -1,3 +1,9 @@
 * Notes
 - Để có thể hạn chế việc khi browser load file js dẫn đến html không thể hoàn thành việc build DOM thì ta nên thêm attribute "defer" trong thẻ <script>
 + Nhưng thuộc tính này sẽ bị bỏ qua nếu trong <script> không có attribute là scr.
+
+
+* 
+- Nếu muốn truy cập một thuộc tính của một object thì ta có hai cách sau: 
++ Đầu tiên ta có thể gọi theo cách thông thường là object.attribute
++ Hoặc là gán attribute cho một biến nào đó như là const attribute = "age"; sau đó gọi bằng cách object[attribute].
