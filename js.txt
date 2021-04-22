@@ -1,2 +1,3 @@
 * Notes
 - Để có thể hạn chế việc khi browser load file js dẫn đến html không thể hoàn thành việc build DOM thì ta nên thêm attribute "defer" trong thẻ <script>
++ Nhưng thuộc tính này sẽ bị bỏ qua nếu trong <script> không có attribute là scr.
