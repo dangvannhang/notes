@@ -7,7 +7,10 @@
 - Các hàm xử lí class trong js
 + https://nguyenvanhieu.vn/cac-ham-xu-ly-class-trong-javascript/
 
-+ Muốn biết kiểu dữ liệu của một biến thì chỉ cần in biến đó ra và thêm vào typeof trước biến đó.
+- Muốn biết kiểu dữ liệu của một biến thì chỉ cần in biến đó ra và thêm vào typeof trước biến đó.
+
+- Các method liên quan đến array:
++ https://www.w3schools.com/jsref/jsref_pop.asp
 
 - var is a global variable.
 - let is a block-scoped local variable.
