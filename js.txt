@@ -4,7 +4,8 @@
   
 - JavaScript does not allow for hyphens in property names. When targeting CSS properties, use camelCase, so the "font-family" property becomes "fontFamily".
 
-
+- Các hàm xử lí class trong js
++ https://nguyenvanhieu.vn/cac-ham-xu-ly-class-trong-javascript/
 
 
 
