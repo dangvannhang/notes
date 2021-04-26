@@ -7,6 +7,8 @@
 - Các hàm xử lí class trong js
 + https://nguyenvanhieu.vn/cac-ham-xu-ly-class-trong-javascript/
 
+- var is a global variable
+
 
 
 * Các lưu ý:
