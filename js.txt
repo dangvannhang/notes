@@ -16,3 +16,6 @@
 + const newArticle = document.createElement('article');
 + newArticle.classList.add('className');
 
+- Thêm key , value vào element:
++ const newArticle = document.createElement('article');
++ newArticle.setAttribute('key','value');-> ('id','nana');
