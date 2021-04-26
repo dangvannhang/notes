@@ -19,3 +19,7 @@
 - Thêm key , value vào element:
 + const newArticle = document.createElement('article');
 + newArticle.setAttribute('key','value');-> ('id','nana');
+
+- Sự khác nhau giữa append và innerHTML
++ Đầu tiên append là sẽ thêm vào phần cuối cùng của cái element đó
++ Còn phần innerHTML thì sẽ replace hết content bên trong 
