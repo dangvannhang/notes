@@ -1,0 +1,4 @@
+* Những điều cần lưu ý
+
+* Style trong react-native
+- 
