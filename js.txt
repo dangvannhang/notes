@@ -21,8 +21,12 @@
 - const is a block-scoped, nếu như mà đã khai báo một biến là const mà còn reassignment hoặc redeclare thì nó sẽ dừng render lại luôn.
 
 
+- Có hai loại functions:
++ function declaration
+  function doSomeMath(a,b) {}
++ function expression
+  function doMoreMath = function (a,b,c) {}
 
-* Các lưu ý:
 
 - Nếu muốn truy cập một thuộc tính của một object thì ta có hai cách sau: 
   + Đầu tiên ta có thể gọi theo cách thông thường là object.property
@@ -42,3 +46,4 @@
 - Sự khác nhau giữa append và innerHTML
 + Đầu tiên append là sẽ thêm vào phần cuối cùng của cái element đó
 + Còn phần innerHTML thì sẽ replace hết content bên trong 
+
