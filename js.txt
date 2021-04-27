@@ -17,6 +17,7 @@
   function doSomeMath(a,b) {}
 + function expression
   function doMoreMath = function (a,b,c) {}
+=> When should use function expression, function declaration : https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/
 - this in js:
 + https://www.w3schools.com/js/js_this.asp
 - "use strict" in js
