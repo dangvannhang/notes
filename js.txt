@@ -21,6 +21,8 @@
 + https://www.w3schools.com/js/js_this.asp
 - "use strict" in js
 + https://www.w3schools.com/js/js_strict.asp
++ With strict mode, you can not, for example, use undeclared variables.
+
 
 
 * Notice
