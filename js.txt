@@ -1,33 +1,25 @@
-* Notes
+* Documents
 - Để có thể hạn chế việc khi browser load file js dẫn đến html không thể hoàn thành việc build DOM thì ta nên thêm attribute "defer" trong thẻ <script>
   + Nhưng thuộc tính này sẽ bị bỏ qua nếu trong <script> không có attribute là scr.
-  
 - JavaScript does not allow for hyphens in property names. When targeting CSS properties, use camelCase, so the "font-family" property becomes "fontFamily".
-
 - Các hàm xử lí class trong js
 + https://nguyenvanhieu.vn/cac-ham-xu-ly-class-trong-javascript/
-
 - Muốn biết kiểu dữ liệu của một biến thì chỉ cần in biến đó ra và thêm vào typeof trước biến đó.
-
 - Các method liên quan đến array:
 + https://www.w3schools.com/jsref/jsref_pop.asp
-+ shift: xoá phần tử đầu tiên của mảng và đẩy các phần tử phía sau lên vị trí đầu
-+ unshift: là thêm phần tử vào phần đầu của mảng.
-+ pop: xoá phần tử cuối cùng của mảng
-+ push: thêm những phần tử vào vị trí cuối cùng của mảng.
-
 - var is a global variable.
 - let is a block-scoped local variable.
 - const is a block-scoped, nếu như mà đã khai báo một biến là const mà còn reassignment hoặc redeclare thì nó sẽ dừng render lại luôn.
-
 - What are differents of function and method in js
 + https://www.geeksforgeeks.org/difference-between-methods-and-functions-in-javascript/#:~:text=Difference%20Between%20Function%20and%20Method%3A&text=A%20function%20can%20pass%20the,on%20which%20it%20was%20called.
-
 - Có hai loại functions:
 + function declaration
   function doSomeMath(a,b) {}
 + function expression
   function doMoreMath = function (a,b,c) {}
+- this in js:
++ https://www.w3schools.com/js/js_this.asp
+
 
 * Notice
 
