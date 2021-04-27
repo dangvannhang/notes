@@ -19,6 +19,8 @@
   function doMoreMath = function (a,b,c) {}
 - this in js:
 + https://www.w3schools.com/js/js_this.asp
+- "use strict" in js
++ https://www.w3schools.com/js/js_strict.asp
 
 
 * Notice
