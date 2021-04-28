@@ -19,12 +19,8 @@
 - What are differents of function and method in js
 + https://www.geeksforgeeks.org/difference-between-methods-and-functions-in-javascript/#:~:text=Difference%20Between%20Function%20and%20Method%3A&text=A%20function%20can%20pass%20the,on%20which%20it%20was%20called.
 
-- Có hai loại functions:
-+ function declaration
-  function doSomeMath(a,b) {}
-+ function expression
-  function doMoreMath = function (a,b,c) {}
-=> When should use function expression, function declaration : https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/
+- functions:
++ When should use function expression, function declaration : https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/
 
 - "this" in js:
 + https://www.w3schools.com/js/js_this.asp
@@ -36,6 +32,7 @@
 - IIFE in js The name — immediately invoked function expressions — pretty much says it all here. When a function is created at the same time it is called, you can use an IIFE:
 + (() => {})()
 + (function() {})()
+
 
 
 
@@ -61,4 +58,5 @@
 + Đầu tiên append là sẽ thêm vào phần cuối cùng của cái element đó
 + Còn phần innerHTML thì sẽ replace hết content bên trong 
 
-- callback:
+- "this" in js:
++ 
