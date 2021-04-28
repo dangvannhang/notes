@@ -16,7 +16,7 @@
 + https://developer.mozilla.org/en-US/docs/Glossary/Method
 
 - Callback:
-+ 
++ https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/
 
 - Others:
 + https://betterprogramming.pub/difference-between-regular-functions-and-arrow-functions-f65639aba256
@@ -55,6 +55,11 @@
     }
   Ở đây fullName là một method vì nó là một property của person object.
   }
+  
+## Về callback:
+
+
+
 # compare
 - Khi nào nên dùng function declaration và khi nào nên dùng function expression:
 
