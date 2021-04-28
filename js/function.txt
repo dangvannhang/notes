@@ -20,22 +20,26 @@
 
 # Notice
 
-- Về declaration function:
-+ Thì nó là các function bình thường viết theo kiểu function thông thường, có function name, có các action. Có thể được dùng đi dùng lại nhiều lần.
+## Về declaration function:
+- Thì nó là các function bình thường viết theo kiểu function thông thường, có function name, có các action. Có thể được dùng đi dùng lại nhiều lần.
   funtion login(username, password) {
     // do something
   }
   
-- Về expression function:
-+ Hiểu nôm na thì nó là gán function cho một biến:
+## Về expression function:
+- Hiểu nôm na thì nó là gán function cho một biến:
   var getValue = function() {
     // do something
   }
   
-- Về arrow function:
-
-- Về method: 
-+ Nó là một function cái mà là một property(tài sản, tính chất) của một object: 
+## Về arrow function:
+- Nó là một cú pháp mới trong ES6 - ECMAScript 2015, giống như bản viết ngắn gọn của function expression.
+  var fullName = (firstName, lastName) => {return firstName + lastName};
+ 
+ 
+ 
+## Về method: 
+- Nó là một function cái mà là một property(tài sản, tính chất) của một object: 
   var person = {
     firstName: "Nhang",
     lastName: "Dang",
