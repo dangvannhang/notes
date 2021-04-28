@@ -16,6 +16,7 @@
 + https://developer.mozilla.org/en-US/docs/Glossary/Method
 
 * Hình như regular function với expression function là giống nhau nhưng mà chưa tìm được tài liệu để nghiên cứu nên sẽ để lại sau.
++ https://betterprogramming.pub/difference-between-regular-functions-and-arrow-functions-f65639aba256
 
 # Notice
 
