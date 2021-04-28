@@ -17,6 +17,7 @@
 
 - Callback:
 + https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/
++ https://javascript.info/callbacks
 
 - Others:
 + https://betterprogramming.pub/difference-between-regular-functions-and-arrow-functions-f65639aba256
@@ -57,7 +58,8 @@
   }
   
 ## Về callback:
-
+- Hiểu như là nó sẽ gọi một function khác trong bản thân nó:
+  
 
 
 # compare
