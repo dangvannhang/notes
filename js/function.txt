@@ -12,6 +12,8 @@
 - Regular function:
 + https://www.geeksforgeeks.org/difference-between-regular-functions-and-arrow-functions/
 
+- Method:
++ https://developer.mozilla.org/en-US/docs/Glossary/Method
 
 * Hình như regular function với expression function là giống nhau nhưng mà chưa tìm được tài liệu để nghiên cứu nên sẽ để lại sau.
 
@@ -30,3 +32,6 @@
   }
   
 - Về arrow function:
+
+- Về method: 
++ 
