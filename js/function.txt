@@ -23,13 +23,10 @@
     // do something
   }
   
-- Về expression function
+- Về expression function:
 + Hiểu nôm na thì nó là gán function cho một biến:
   var getValue = function() {
-    let username = document.getElementbyId('input_username');
-    return username;
+    // do something
   }
   
-  
-- Về function expression:
-+ Thì nó là function nhưng được gán giá trị cho một biến, 
+- Về arrow function:
