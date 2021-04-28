@@ -16,3 +16,20 @@
 * Hình như regular function với expression function là giống nhau nhưng mà chưa tìm được tài liệu để nghiên cứu nên sẽ để lại sau.
 
 # Notice
+
+- Về declaration function:
++ Thì nó là các function bình thường viết theo kiểu function thông thường, có function name, có các action. Có thể được dùng đi dùng lại nhiều lần.
+  funtion login(username, password) {
+    // do something
+  }
+  
+- Về expression function
++ Hiểu nôm na thì nó là gán function cho một biến:
+  var getValue = function() {
+    let username = document.getElementbyId('input_username');
+    return username;
+  }
+  
+  
+- Về function expression:
++ Thì nó là function nhưng được gán giá trị cho một biến, 
