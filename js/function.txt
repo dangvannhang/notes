@@ -15,8 +15,15 @@
 - Method:
 + https://developer.mozilla.org/en-US/docs/Glossary/Method
 
-* Hình như regular function với expression function là giống nhau nhưng mà chưa tìm được tài liệu để nghiên cứu nên sẽ để lại sau.
+- Callback:
++ 
+
+- Others:
 + https://betterprogramming.pub/difference-between-regular-functions-and-arrow-functions-f65639aba256
++ https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/
+
+
+* Hình như regular function với expression function là giống nhau nhưng mà chưa tìm được tài liệu để nghiên cứu nên sẽ để lại sau.
 
 # Notice
 
@@ -48,6 +55,8 @@
     }
   Ở đây fullName là một method vì nó là một property của person object.
   }
-## compare
+# compare
 - Khi nào nên dùng function declaration và khi nào nên dùng function expression:
-+ https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/
+
+
+
