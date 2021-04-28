@@ -59,4 +59,8 @@
 + Còn phần innerHTML thì sẽ replace hết content bên trong 
 
 - "this" in js:
-+ 
++ Trong một method thì 'this' đại diện cho chính object chủ của nó.
++ Alone, thì 'this' đại diện cho một global object
++ In a function, 'this' đại diện cho một global object
++ In a function, in strict mode, 'this' có value là undefined
++ In an event, 'this' đại diện cho element cái mà nhận được event
