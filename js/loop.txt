@@ -1,0 +1,17 @@
+# Documents
+- What are differents of forEach and map
++ https://codeburst.io/javascript-map-vs-foreach-f38111822c0f#:~:text=Well%2C%20the%20forEach()%20method,each%20element%20in%20your%20array.&text=The%20difference%20is%20that%20map,Array%20of%20the%20same%20size.
+
+# Notes
+
+## forEach
+- executes a provided function once for each array element. 
+
+
+## map
+- creates a new array with the results of calling a provided function on every element in the calling array.
+
+
+# Compare
+
+## forEach vs map
