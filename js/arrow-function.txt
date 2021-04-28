@@ -1,3 +1,0 @@
-* Document:
-
-- https://anonystick.com/blog-developer/es6-arrow-functions-cheatsheet-2019061833209083
