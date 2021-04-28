@@ -48,3 +48,6 @@
     }
   Ở đây fullName là một method vì nó là một property của person object.
   }
+## compare
+- Khi nào nên dùng function declaration và khi nào nên dùng function expression:
++ https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/
