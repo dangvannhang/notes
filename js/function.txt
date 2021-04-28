@@ -34,4 +34,12 @@
 - Về arrow function:
 
 - Về method: 
-+ 
++ Nó là một function cái mà là một property(tài sản, tính chất) của một object: 
+  var person = {
+    firstName: "Nhang",
+    lastName: "Dang",
+    fullName: function() {
+      return this.firstName + " " + this.lastName;
+    }
+  Ở đây fullName là một method vì nó là một property của person object.
+  }
