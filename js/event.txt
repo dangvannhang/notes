@@ -5,4 +5,7 @@
 # Notes
 ## Syntax
 - document.addEventListener(event, function, useCapture);
-
+  const btn_click = document.querySelector('#btn_click');
+  btn_click.addEventListener('click', function() {
+    document.getElementById('demo').innerHTML = 'Hello World';
+  });
