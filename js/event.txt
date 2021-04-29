@@ -3,4 +3,6 @@
 + https://www.w3schools.com/jsref/met_document_addeventlistener.asp
 
 # Notes
+## Syntax
+- document.addEventListener(event, function, useCapture);
 
