@@ -2,6 +2,9 @@
 - addEventListener:
 + https://www.w3schools.com/jsref/met_document_addeventlistener.asp
 
+- All events in DOM
++ https://www.w3schools.com/jsref/dom_obj_event.asp
+
 # Notes
 ## Syntax
 - document.addEventListener(event, function, useCapture);
