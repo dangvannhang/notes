@@ -50,7 +50,13 @@
 
 * Css cho ô input khi mà người dùng submit data invalid thì chỉ cần ghi là input:invalid {}
 
-
+* Code responsive
+$screen-xxs-min: "only screen and (min-width: 321px)"; /* Tiny small screen / mini phone */
+$screen-xs-min: "only screen and (min-width: 414px)"; /* Extra small screen / phone */
+$screen-sm-min: "only screen and (min-width: 767px)"; /* Small screen / tablet */
+$screen-md-min: "only screen and (min-width: 960px)"; /* Medium screen / desktop */
+$screen-lg-min: "only screen and (min-width: 1199px)"; /* Large screen / wide desktop small */
+$screen-xl-min: "only screen and (min-width: 1367px)"; /* Large screen / wide desktop */
 
 
 
