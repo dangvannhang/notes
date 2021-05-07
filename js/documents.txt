@@ -66,3 +66,4 @@
 + In a function, 'this' đại diện cho một global object
 + In a function, in strict mode, 'this' có value là undefined
 + In an event, 'this' đại diện cho element cái mà nhận được event
++ In an arrow-funtion, 'this' đại diện cho window object.
