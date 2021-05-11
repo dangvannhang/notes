@@ -58,5 +58,13 @@ $screen-md-min: "only screen and (min-width: 960px)"; /* Medium screen / desktop
 $screen-lg-min: "only screen and (min-width: 1199px)"; /* Large screen / wide desktop small */
 $screen-xl-min: "only screen and (min-width: 1367px)"; /* Large screen / wide desktop */
 
-
+* width and max-width:
+- width: 
+  + keep the size of the object stable.(let put width for image by 600px, when you resize your screen, it will keep size of object stable. Let say you are in       mobile screen and it smaller 500px, so it will stretch out your page, it will not friendly. )
+  + define width of specify element.
+  + width: 100% use parent't width to calculate the current width
+- max-width:
+  + When you set max-width for object, it will resize up to your max width, but when your screen is smaller, the element doesn't fit with your screen, it will     automatically resize to fit your screen. (when you set max-width:700px it will re-size up to 700px but when the screen goes smaller and the images doesn't fit   in the screen it will automatically re-size it to fit the screen.)
+  + define the maximum size the element allow to have.
+  + max-width: 100% use its own original width to calculate the maximum size.
 
