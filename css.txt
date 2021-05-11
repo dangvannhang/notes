@@ -59,6 +59,7 @@ $screen-lg-min: "only screen and (min-width: 1199px)"; /* Large screen / wide de
 $screen-xl-min: "only screen and (min-width: 1367px)"; /* Large screen / wide desktop */
 
 * width and max-width:
+* https://blog.prototypr.io/what-even-is-the-difference-between-width-and-max-width-8f37b282c7f1
 - width: 
   + keep the size of the object stable.(let put width for image by 600px, when you resize your screen, it will keep size of object stable. Let say you are in       mobile screen and it smaller 500px, so it will stretch out your page, it will not friendly. )
   + define width of specify element.
