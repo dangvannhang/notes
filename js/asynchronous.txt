@@ -1,0 +1,5 @@
+* Document
+1. https://career.vinid.net/blog/hieu-ve-bat-dong-bo-trong-javascript/
+2. https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
+3. https://www.w3schools.com/js/js_promise.asp
+4. https://javascript.info/fetch
