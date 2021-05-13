@@ -14,4 +14,6 @@
 
 * Có thể xác thực dữ liệu tại các ô input bằng cách thêm attribute là pattern và sau đó là các regex data.
 
+* Những lưu ý khi tạo form:
+- https://www.chromium.org/developers/design-documents/create-amazing-password-forms
 
