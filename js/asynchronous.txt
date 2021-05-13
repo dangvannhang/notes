@@ -6,3 +6,5 @@
 5. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 6. https://nhungdongcodevui.com/2017/08/12/javascript-hieu-ro-co-che-xu-li-dong-bo-va-bat-dong-bo-sync-vs-async-trong-javascript-p2/
 7. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
+8. https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+
