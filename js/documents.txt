@@ -34,11 +34,17 @@
 + (function() {})()
 
 
---
-- https://codeburst.io/javascript-map-vs-foreach-f38111822c0f
+- What is the different of map with foreach
++ https://codeburst.io/javascript-map-vs-foreach-f38111822c0f
 
--- 
-- https://www.educative.io/edpresso/pass-by-value-vs-pass-by-reference
+- Core of js about copy value of js
++ https://www.educative.io/edpresso/pass-by-value-vs-pass-by-reference
+
+- What differents of querySelector and getElementsByClassName
++ https://unicorntears.dev/posts/queryselectorall-vs-         getelementsbyclassname/#:~:text=querySelectorAll()%20retrieves%20a%20list,live%20HTML%20collection%20of%20elements.
+
+
+
 
 * Notice -----------------
 
