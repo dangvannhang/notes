@@ -16,3 +16,6 @@
 + https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
 + https://viblo.asia/p/giai-thich-ve-asyncawait-javascript-trong-10-phut-1VgZvBn7ZAw
 + https://viblo.asia/p/giai-thich-ve-asyncawait-javascript-trong-10-phut-1VgZvBn7ZAw
+
+## Promise
+- 
