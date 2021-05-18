@@ -14,3 +14,4 @@
 ## async and await
 - await được sử dụng để đợi một Promise. Nó chỉ được dùng bên trong async function(). 
 + https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
++ https://viblo.asia/p/giai-thich-ve-asyncawait-javascript-trong-10-phut-1VgZvBn7ZAw
