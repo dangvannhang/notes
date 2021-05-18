@@ -8,10 +8,11 @@
 7. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
 8. https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
 9. https://nhungdongcodevui.com/2017/02/12/javascript-promise-loi-hua-ngot-ngao-p1/
-
+10. https://viblo.asia/p/giai-thich-ve-asyncawait-javascript-trong-10-phut-1VgZvBn7ZAw
 
 * Notes
 ## async and await
 - await được sử dụng để đợi một Promise. Nó chỉ được dùng bên trong async function(). 
 + https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
++ https://viblo.asia/p/giai-thich-ve-asyncawait-javascript-trong-10-phut-1VgZvBn7ZAw
 + https://viblo.asia/p/giai-thich-ve-asyncawait-javascript-trong-10-phut-1VgZvBn7ZAw
