@@ -1,2 +1,18 @@
 1. https://ichi.pro/vi/5-cau-hoi-javascript-huu-ich-va-kho-hieu-82810007218731
 2. https://viblo.asia/p/javascript-va-nhung-cu-lua-bJzKm706l9N
+
+
+
+
+
+
+
+
+* note:
+# Dau ; la khong bat buoc trong JS()
+  - Nen viet code nhu nay
+    function login() {
+    } thay vi viet 
+    function login() 
+    {
+    }
