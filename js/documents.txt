@@ -74,3 +74,8 @@
 + In a function, in strict mode, 'this' có value là undefined
 + In an event, 'this' đại diện cho element cái mà nhận được event
 + In an arrow-funtion, 'this' đại diện cho window object.
+
+- innerHTML thực ra được dùng để lấy giá trị hoặc gán một HTML content mới cho element node.
++ document.getElementById('main').innerHTML=`<p>New content</p>`; -> gán một giá trị HTML content mới
++ var content = document.getElementById('main').innerHTML; -> Lấy HTML content ở trong đó.
+
