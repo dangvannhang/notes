@@ -77,5 +77,5 @@
 
 - innerHTML thực ra được dùng để lấy giá trị hoặc gán một HTML content mới cho element node.
 + document.getElementById('main').innerHTML=`<p>New content</p>`; -> gán một giá trị HTML content mới
-+ var content = document.getElementById('main').innerHTML; -> Lấy HTML content ở trong đó.
++ var content = document.getElementById('main').innerHTML; -> Lấy HTML content ở trong đó, nếu như console.log biến này thì sẽ thấy hết các tag element.
 
