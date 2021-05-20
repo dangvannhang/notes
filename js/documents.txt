@@ -79,3 +79,6 @@
 + document.getElementById('main').innerHTML=`<p>New content</p>`; -> gán một giá trị HTML content mới
 + var content = document.getElementById('main').innerHTML; -> Lấy HTML content ở trong đó, nếu như console.log biến này thì sẽ thấy hết các tag element.
 
+- https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f 
++ Các principle of 
+
