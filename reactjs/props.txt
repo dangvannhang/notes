@@ -1,9 +1,11 @@
 # Documents:
+- https://freetuts.net/props-trong-reactjs-2354.html
+
 
 # Overview:
 - Props là một object được truyền vào một components, mỗi components sẽ nhận props và trả ra React element.
 - Props cho phép chúng ta giao tiếp giữa các components với nhau bằng cách truyền tham số qua lại giữa các components.
 
-# Notice:
 
+# Notice:
 1. Khi component cha truyền cho component con một props thì components con chỉ có thể đọc và không có quyền chỉnh sửa nó ở bên phía component cha.
