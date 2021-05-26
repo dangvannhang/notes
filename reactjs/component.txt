@@ -1,0 +1,7 @@
+# Documents
+
+# Notice
+
+## Co hai loai component:
+  - functional component
+  - class component
