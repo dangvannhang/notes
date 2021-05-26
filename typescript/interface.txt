@@ -1,3 +1,6 @@
+1. Definations:
+- interface
+
 interface House {
   address: String,
   acreage: Number,
