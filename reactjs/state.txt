@@ -2,15 +2,15 @@
 - https://freetuts.net/state-trong-reactjs-2358.html
 
 # Overview:
-- State là một object có thể được dùng để chứa dữ liệu hoặc thông tin về components:
-- setState(): giúp cập nhật state
+- State là một object có thể được dùng để chứa dữ liệu hoặc thông tin về components: (1)
+- setState(): giúp cập nhật state (2)
 
 # Notice:
 1. State chỉ tồn tại trong phạm vi của component chứa nó thôi.
 
 
 # Examples:
-
+## 1
 import React from "react";
 
 class App extends React.Component {
@@ -42,3 +42,46 @@ class App extends React.Component {
 }
 
 export default App;
+
+## 2
+import React from "react";
+
+class App extends React.Component {
+
+  constructor(props) {
+    super(props);
+    this.state={
+      index: 1
+    };
+  }
+  countDown() {
+    this.setState({
+      index: this.state.index -1
+    });
+  }
+  countUp() {
+    this.setState({
+      index: this.state.index + 1
+    });
+  }
+
+  render() {
+    return (
+      <div>
+        <p>Gia tri {this.state.index}</p>
+
+        <button onClick={()=> {
+          this.countUp();
+        }}>Tang</button>
+
+        <button onClick={()=> {
+          this.countDown();
+        }}>Giam</button>
+      </div>
+    );
+  }
+}
+
+
+export default App;
+
