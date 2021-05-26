@@ -1,0 +1,12 @@
+interface House {
+  address: String,
+  acreage: Number,
+  show: () => void
+}
+const MyHouse: House = {
+  address: 'Hanoi',
+  acreage: 50,
+  show: (): void => { console.log(`Tim hieu ve TypeScript tai Framgia`); }
+}
+
+console.log(MyHouse.address, MyHouse.acreage, MyHouse.show());
