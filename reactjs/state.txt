@@ -1,0 +1,8 @@
+# Documents:
+- https://freetuts.net/state-trong-reactjs-2358.html
+
+# Overview:
+- State là một object có thể được dùng để chứa dữ liệu hoặc thông tin về components:
+
+# Notice:
+1. State chỉ tồn tại trong phạm vi của component chứa nó thôi.
