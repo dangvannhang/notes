@@ -2,8 +2,13 @@
 
 
 # Definitions
-- hook ở đây là những hàm giúp chúng ta có thể kết nối với các state trong functional component.
+- hook ở đây là những hàm giúp chúng ta có thể kết nối với các React state trong functional component.
 
 # Notices
+1. useEffect là function có hai tham số(first argument là bắt buộc, thứ hai là optional)
+- useEffect(() => {
+    console.log(`Fiedl 2: ${val2}`);
+  },[val2]);
++ ở đây, khi có sự thay đổi trong data của component, thì component sẽ được load 
 
 # Examples
