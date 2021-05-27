@@ -1,0 +1,9 @@
+# Documents
+
+
+# Definitions
+- hook ở đây là những hàm giúp chúng ta có thể kết nối với các state trong functional component.
+
+# Notices
+
+# Examples
