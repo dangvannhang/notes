@@ -1,1 +1,17 @@
+1. Routing and navigation
+- In the navigation, click news => call routes =>   Route       Components
+                                                  * New       =>  * New           => render Page New
+                                                  * Contact       * Contact
+2. Server-side rendering
 
+
+3. State management
+
+
+4. Mobile
+
+
+5. Animation
+
+
+6. Testing and debugging
