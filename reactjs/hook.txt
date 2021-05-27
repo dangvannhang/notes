@@ -1,8 +1,10 @@
 # Documents
-
+- https://viblo.asia/p/reactjs-usestate-trong-react-hooks-yMnKMbzQZ7P
 
 # Definitions
 - hook ở đây là những hàm giúp chúng ta có thể kết nối với các React state trong functional component.
+- Output ở đây là một mảng gồm có hai phần tử là state và setState
++ Cách dùng: const [name, setName] = useState(initialStateValue);
 
 # Notices
 1. useEffect là function có hai tham số(first argument là bắt buộc, thứ hai là optional)
