@@ -17,3 +17,5 @@
 * Những lưu ý khi tạo form:
 - https://www.chromium.org/developers/design-documents/create-amazing-password-forms
 
+* Semantics
+- https://internetingishard.netlify.app/html-and-css/semantic-html/index.html
