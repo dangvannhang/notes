@@ -1,2 +1,5 @@
 * Documenst: 
 - https://topdev.vn/blog/reactjs-nhung-dieu-ban-can-phai-biet/
+
+* Notices:
+- Create a new file package.json: npm init -y
