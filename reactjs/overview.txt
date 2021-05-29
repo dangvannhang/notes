@@ -3,3 +3,5 @@
 
 * Notices:
 - Create a new file package.json: npm init -y
+- Name of function in function component must be write by camelCase
+- Name of component must be start by Uppercase if not, browser will think it is a element
