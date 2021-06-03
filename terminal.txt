@@ -13,6 +13,7 @@
 
 * Dùng để xem ở vị trí hiện tại chúng ta đang đứng có những gì
 - ls
+- ls -a
 
 * Cách để clear giao diện 
 - clear
