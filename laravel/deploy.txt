@@ -1,0 +1,8 @@
+# overview
+
+
+# Errors
+1. Some method of sql don't work when deploy app to production environment: because in local, uppercase, lowercase are the same, but in production it is not.
+- https://stackoverflow.com/questions/67207114/laravel-8-query-working-in-development-but-not-when-deployed-to-heroku/67224421#67224421
++ $data = Country::where(DB::raw('LOWER(name)'), 'like',  strtolower($request->country) . '%')->limit(10)->get();
+
