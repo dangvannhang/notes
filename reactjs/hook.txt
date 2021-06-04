@@ -8,6 +8,11 @@
   
   - useReducer: thực chất là một phiên bản nâng cấp của useState, 
 
+# Rule
+- component name must be uppercase
+- must be in the function/component body
+- cannot call conditionally
+
 # Notices
 - useState: cho phép chúng ta sử dụng local state trong functional component.
 
