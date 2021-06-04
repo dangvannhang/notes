@@ -1,1 +1,2 @@
-
+# rule
+- When map one array and do more than one action, must be have couple bracket, or when do one action, don't need to have bracket.
