@@ -7,13 +7,19 @@
   + Cách dùng: const [name, setName] = useState(initialStateValue);
   
   - useReducer: thực chất là một phiên bản nâng cấp của useState, 
+  
+  - useEffect: 
 
 # Rule
-- component name must be uppercase
-- must be in the function/component body
-- cannot call conditionally
+* useState
+  - component name must be uppercase
+  - must be in the function/component body
+  - cannot call conditionally
+  
+* useEffect
 
 # Notices
 - useState: cho phép chúng ta sử dụng local state trong functional component.
+- useEffect: by default run after every re-render
 
 # Examples
