@@ -1,0 +1,2 @@
+1. Too many re-renders. React limits the number of renders to prevent an infinite loop.
+- give it one arrow function
