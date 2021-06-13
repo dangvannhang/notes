@@ -1,0 +1,15 @@
+1. chuyển một array object thành một array với nhiều array con bên trong chứa số lượng các object được định trước
+ 
+  export const paginate = (array) => {
+    const itemPerPage = 9
+    const pages = Math.ceil(array.length / itemPerPage)
+    console.log('number of pages: ', pages)
+
+    // ++++++++++++++++++++++ start from here +++++++++++++++++++++++++++ //
+    const newArray = Array.from({ length: pages }, (_, index) => {
+      const start = index * itemPerPage
+      return array.slice(start, start + itemPerPage)
+    })
+
+    return newArray
+  }
