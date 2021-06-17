@@ -1,7 +1,11 @@
 * Documenst: 
 - https://topdev.vn/blog/reactjs-nhung-dieu-ban-can-phai-biet/
+- https://viblo.asia/p/hieu-hon-ve-reactjs-1-cach-react-functional-component-xu-ly-props-va-state-E375z6Nb5GW
 
 * Notices:
 - Create a new file package.json: npm init -y
 - Name of function in function component must be write by camelCase
 - Name of component must be start by Uppercase if not, browser will think it is a element
+
+- props and state
++ state là data mà component có toàn quyền quyết định với dữ liệu đó, props là data component nhận được từ component cha truyền xuống, nó không có cách nào thay đổi được props nếu như component cha không truyền một hàm làm nhiệm vụ thay đổi giá trị props đó.
