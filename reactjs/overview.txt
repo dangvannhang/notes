@@ -1,6 +1,7 @@
 * Documenst: 
 - https://topdev.vn/blog/reactjs-nhung-dieu-ban-can-phai-biet/
 - https://viblo.asia/p/hieu-hon-ve-reactjs-1-cach-react-functional-component-xu-ly-props-va-state-E375z6Nb5GW
+- https://viblo.asia/p/frontend-1-so-note-co-ban-ve-react-hook-GrLZDGn2Kk0
 
 * Notices:
 - Create a new file package.json: npm init -y
