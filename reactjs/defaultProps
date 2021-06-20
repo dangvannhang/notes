@@ -1,0 +1,6 @@
+1. Component.propTypes={
+  name:PropTypes.object.isRequired, -> name:ptor > pt: PropTypes -> o: object, a: array, s: string ->  r: isRequired
+}
+
+2. Create component with PropTypes : rafcp
+3. Create component without PropTypes: rafc
