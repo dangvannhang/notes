@@ -1,0 +1,2 @@
+1. Tại sao lại cần exact tại phần <Route exact path='/'> <Home/> </Route>
+- Theo tui hiểu thì có nghĩa là khi có một Route khác có path=/about thì nó sẽ bị mix với cái path=/ và nó sẽ show tất cả component trong cả hai Route luôn. 
