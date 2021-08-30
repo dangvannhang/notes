@@ -82,3 +82,4 @@
 - https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f 
 + Các principle of 
 
+- axios là một promise nên phải .then()
