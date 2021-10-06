@@ -1,5 +1,5 @@
 # Note
-- Những câu lệnh trên không phân biệt chữ hoa và chữ thường.
+## Những câu lệnh trên không phân biệt chữ hoa và chữ thường.
 
 1. Tạo một folder
 - mkdir folder_name
