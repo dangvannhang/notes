@@ -1,7 +1,7 @@
-* Note
+# Note
 - Những câu lệnh trên không phân biệt chữ hoa và chữ thường.
 
-* Tạo một folder
+1. Tạo một folder
 - mkdir folder_name
 
 * Cách mở một folder trong visual studio code
